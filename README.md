@@ -11,7 +11,7 @@
 <br>  <img src="https://github.com/collinsbigomba/Nessus/blob/main/images/nes2.png   " /></br>
 <br>  <img src="https://github.com/collinsbigomba/Nessus/blob/main/images/nes3.png   " /></br>
 - For my case im running a host discovery
-- Fill in the necessary fields (The host section is where u need to insert the ip address which u want to scan, )
+- Fill in the necessary fields (The target section is where u need to insert the ip address which u want to scan, )
   <br>  <img src="https://github.com/collinsbigomba/Nessus/blob/main/images/nes4.png   " /></br>
 
 - 
